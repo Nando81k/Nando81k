@@ -55,13 +55,72 @@ Explore all my work, including PATCH and more:
 
 ### ⚙️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### ⚙️ Tech Stack
+
+<p align="center">
+  <i>Tools I use to design, build, and ship full-stack web and mobile applications</i>
+</p>
+
+---
+
+#### 🧠 Languages & Core
+
+| Tech | Description |
+|------|-------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | My go-to language for frontend and backend development (React, Node.js). |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | Used with ASP.NET for building scalable APIs and backend logic. |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | Used with Spring Boot for enterprise-grade backend services. |
+
+---
+
+#### 🎨 Frontend
+
+| Tech | Description |
+|------|-------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) | Framework of choice for building interactive SPAs and UIs. |
+| ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react) | Powers FYLA’s mobile app — cross-platform, fast, and native-like. |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Core markup for web projects. |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Used for building responsive, modern layouts. |
+
+---
+
+#### 🧩 Backend & APIs
+
+| Tech | Description |
+|------|-------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | Backend runtime used in PATCH and multiple RESTful APIs. |
+| ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | Lightweight framework for building REST APIs with Node. |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | Used for robust and scalable backend services in Java. |
+| ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | Powers the backend of FYLA — structured, secure, and fast. |
+| ![SignalR](https://img.shields.io/badge/SignalR-8A2BE2?style=flat-square&logo=dotnet&logoColor=white) | Enables real-time messaging in FYLA (chat & notifications). |
+
+---
+
+#### 💾 Databases
+
+| Tech | Description |
+|------|-------------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | My go-to relational database. Used in both PATCH & FYLA. |
+
+---
+
+#### 💳 Payments
+
+| Tech | Description |
+|------|-------------|
+| ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) | Handles secure booking deposits and subscriptions in FYLA. |
+
+---
+
+#### 🛠️ Tools & Dev Environment
+
+| Tech | Description |
+|------|-------------|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Version control for all my projects. |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Code hosting, CI, and public portfolio. |
+| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | My primary code editor — configured for web, mobile, and backend work. |
+
+---
 
 ---
 
