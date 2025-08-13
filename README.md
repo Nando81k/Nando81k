@@ -55,8 +55,6 @@ Explore all my work, including PATCH and more:
 
 ### ⚙️ Tech Stack
 
-### ⚙️ Tech Stack
-
 <p align="center">
   <i>Tools I use to design, build, and ship full-stack web and mobile applications</i>
 </p>
