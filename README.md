@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  👨‍💻 Kommander Nando (aka Nando81k)
+  👨‍💻 Fernando Martinez
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 - 🛠️ I build sleek, scalable apps with **React**, **Node.js**, and **ASP.NET**
 - 📱 Creator of **FYLA** – a booking & social platform for beauty professionals  
-- 🧠 Maker of **PATCH** – a modern health tracking platform with real-time insights  
+- 🧠 Product Manager of **PATCH** – a modern health tracking platform with real-time insights  
 - 🌟 Passionate about clean code, intuitive UI, and shipping fast
 
 ---
